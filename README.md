@@ -30,8 +30,8 @@ Limitar la cantidad de películas a 15 por sección.
 
 Página web desplegada: [Netflix][netflix]
 
-[netflix]: https://iamdanihdz.github.io/DEVF-CS-Netflix/
+[netflix]: https://danielhernandez18.github.io/devf-css-netflix/
 
-<img src="https://github.com/iamDaniHdz/DEVF-CS-Netflix/blob/master/assets/netflix.png">
+<img src="https://github.com/danielhernandez18/devf-css-netflix/blob/main/assets/netflix.png">
 
-<img src="https://github.com/iamDaniHdz/DEVF-CS-Netflix/blob/master/assets/modal.png">
+<img src="https://github.com/danielhernandez18/devf-css-netflix/blob/main/assets/modal.png">
